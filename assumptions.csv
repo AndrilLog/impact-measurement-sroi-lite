@@ -1,0 +1,5 @@
+Outcome,Participants,Outcome_rate,Value_proxy_NZD,Duration_years,Deadweight_pct,Attribution_pct,Dropoff_pct,Confidence,Source_note
+Improved food security (reduced skipped meals),300,0.60,600,1,0.30,0.20,0.00,Medium,Illustrative assumptions for case study
+Reduced financial stress,300,0.40,400,1,0.35,0.25,0.00,Low,Would need survey/validation
+Improved mental wellbeing,300,0.25,800,1,0.40,0.30,0.00,Low,Would need wellbeing measure
+Reduced use of crisis support services,300,0.10,1200,1,0.50,0.30,0.00,Low,Would need admin data linkage
