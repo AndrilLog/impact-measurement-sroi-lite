@@ -1,0 +1,60 @@
+# Impact Measurement Case Study (SROI-lite) — Community Meals Support
+
+## Purpose
+This case study demonstrates a simplified Social Return on Investment (SROI-lite) approach to impact measurement. It is designed to show transparent modelling, clear assumptions, data quality checks, and stakeholder-ready reporting. This is an illustrative case study and not an evaluation of a specific organisation.
+
+## Programme Summary
+A community meals programme providing weekly food packs to households experiencing food insecurity, with the aim of improving food access and reducing financial stress.
+
+## Logic Model
+**Inputs → Activities → Outputs → Outcomes**
+- Inputs: funding, volunteers, food supplies, logistics
+- Activities: collect food, prepare packs, distribute weekly
+- Outputs: packs delivered, households served
+- Outcomes: improved food security, reduced financial stress, improved wellbeing, reduced crisis support usage
+
+## Method (SROI-lite)
+1. Defined a simple logic model and identified key outcomes.
+2. Created an assumptions table to estimate:
+   - number of participants,
+   - outcome rates (participation-to-outcome conversion),
+   - value proxies (NZD),
+   - duration (years).
+3. Applied realism adjustments commonly used in SROI-style thinking:
+   - **Deadweight** (what would have happened anyway)
+   - **Attribution** (how much is due to other factors)
+4. Implemented model input checks (QA/QC) to reduce input errors.
+5. Tested uncertainty using scenario-based sensitivity analysis.
+
+## Key Assumptions (Illustrative)
+- Participants: 300 households/participants
+- Time horizon: 1 year
+- Outcomes are valued using simple NZD proxies for demonstration purposes.
+- Deadweight and attribution are applied as percentage reductions to avoid overstating benefits.
+
+## Results (Illustrative)
+SROI Ratio = Total Adjusted Benefits / Programme Cost
+
+- **Conservative SROI:** 0.53496
+- **Base SROI:** 0.81120
+- **Optimistic SROI:** 1.16776
+
+Interpretation: under the current assumptions, the model estimates approximately **$0.53 to $1.17 of social value for every $1 invested**, with a base estimate of **$0.81 per $1**.
+
+## Data Quality Controls
+The model includes basic checks to confirm:
+- percentage inputs are within valid ranges (0–1),
+- programme cost is positive,
+- outcome rates are valid,
+- totals calculate correctly.
+
+## Limitations
+- Outcome rates and value proxies are illustrative and require validation through real programme measurement.
+- Attribution and deadweight estimates should be informed through stakeholder mapping and stronger evidence.
+- A more robust approach would incorporate baseline and follow-up outcomes, plus stronger evidence grading.
+
+## Next Steps (How to strengthen with real client data)
+- Collect baseline and follow-up participant outcomes (survey or validated scales).
+- Use verified value proxies aligned to local context.
+- Improve attribution estimates through stakeholder workshops.
+- Explore safe data linkage options (where appropriate) to validate service-use outcomes.
